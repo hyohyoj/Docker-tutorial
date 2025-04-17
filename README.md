@@ -2,7 +2,7 @@
 
 ## Docker Build
 ```
-docker build -t <컨테이너명> -f Dockerfile .
+docker build -t <이미지 이름> -f Dockerfile .
 ```
 
 > push & pull
